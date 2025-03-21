@@ -3,12 +3,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F0F0F0;
+    background-color: #ADB2D4;
 }
 
 .box{
     padding: 50px;
     border: 2px black solid;
     border-radius: 5px;
-    
+    background-color: #C7D9DD;
 }
