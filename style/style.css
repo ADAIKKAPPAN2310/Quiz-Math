@@ -9,6 +9,6 @@ body{
 .box{
     padding: 60px;
     border: 2px black solid;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #C7D9D8;
 }
